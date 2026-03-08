@@ -24,3 +24,5 @@
 
 ## 🚀 Οδηγίες
 Εγκαταστήστε τις βιβλιοθήκες: `pip install opencv-python numpy`
+
+![Heatmap Sample](./screenshot-for-a-mouse-tracking-hetamap.webp)
