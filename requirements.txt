@@ -1,0 +1,18 @@
+# Βασικές βιβλιοθήκες για Data & AI
+numpy
+pandas
+matplotlib
+
+# Για το Computer-Vision
+opencv-python
+
+# Για το Digit-Recognizer (ML)
+tensorflow
+scikit-learn
+
+# Για το Web-Scraper
+requests
+beautifulsoup4
+
+# Για τα Jupyter Notebooks (.ipynb)
+ipykernel
